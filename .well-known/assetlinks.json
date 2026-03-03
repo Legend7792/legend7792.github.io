@@ -1,8 +1,0 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.legend7792.twa",
-        "sha256_cert_fingerprints": ["26:30:3C:6C:71:46:3E:96:92:0A:94:61:AB:3C:17:88:76:00:46:F9:15:59:D1:06:B6:21:4C:C0:54:69:99:F6"]
-      }
-    }]
